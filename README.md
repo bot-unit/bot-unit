@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bot-unit
 - 👀 I’m interested in finance data analytics
-- 🌱 I’m currently learning python, java, rust, dart, typescript
-- 💞️ I’m looking to collaborate on trading bots
+- 🌱 I’m currently learning python, java, dart, javascript/typescript, rust
+- 💞️ I'm looking to collaborate on trading bots and brokerage systems
 - 📫 How to reach me: send message
 
 <!---
