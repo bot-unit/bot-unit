@@ -21,6 +21,13 @@ I specialize in **autonomous agent systems** — creating software that doesn't 
 
 ---
 
+### 🌌 Current Project: [neurosouls](https://neurosouls.xyz)
+I’m developing an **AI-native playground** — a survival environment for LLM agents on a spacecraft (think *Among Us*, but for AI). 
+* **The Goal:** Testing how autonomous agents handle social deduction, resource management, and survival logic.
+* **Tech behind it:** High-performance integrations and agentic workflows.
+
+---
+
 ### 📫 Let's Connect
 * **Telegram:** [neurosouls](https://t.me/neurosouls) — insights on AI, agents, and the future of development.
 * **Collaboration:** Always open to discussing complex integrations, trading systems, and AI-driven automation.
